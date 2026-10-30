@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+
+body{
+    background-color: #37393A;
+}
+h1 {
+    font-family: "TikTok Sans", sans-serif;
+    color: #FEFFFE;
+    background-color: #E84855;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.button-main {
+    border-color: #808A9F;
+    border-radius: 1rem;
+    background-color: #151E3F;
+    fill: #151E3F;
+    color: #FEFFFE;
+    text-decoration: none;
+    font-family: "Tiktok Sans", sans-serif;
+    margin: 0.15rem;
+}
+.button-main:hover{
+    border-color: #E84855;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
